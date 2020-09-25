@@ -1,0 +1,58 @@
+/*
+Colors:
+
+Dark Blue:    #05386B
+Dark Green:   #379683
+Normal Green: #5CDB95
+Light Green:  #8EE4AF
+White:        #EDF5E1
+
+
+Dark: #090979
+Light: #ff9600
+*/
+
+
+body{
+    background-color: #C5C3C6;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #46494C;
+}
+
+.active
+{
+    background-color: #4C5C68;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #4C5C68;
+}
+
+
+#top-container{
+    
+    color: #46494C;
+    text-align: center;
+    border-bottom: 4px solid #1985A1;
+    text-decoration: none;
+    
+
+}
